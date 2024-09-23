@@ -84,7 +84,7 @@ body {
 .y-block {
     background-color: #ffffff;
     font-size: 1vw; 
-    margin: 1vw; 
+    margin: 0;
     border: 2px solid black;
     width: 20%;
     text-align: center; 
@@ -121,7 +121,7 @@ body {
     display: flex;         
     justify-content: center;   
     gap: 15px;                 
-    margin-top: 5%;    
+    margin: 5%;    
 }
 
 .icons a {
